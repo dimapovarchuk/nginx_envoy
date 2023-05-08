@@ -1,0 +1,4 @@
+tag_service_myapp ansible_host=___________ ansible_user=ubuntu
+tag_service_client ansible_host=__________ ansible_user=ubuntu
+tag_service_envoy ansible_host=___________ ansible_user=ubuntu
+tag_service_nginx ansible_host=___________ ansible_user=ubuntu

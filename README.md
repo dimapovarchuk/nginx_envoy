@@ -1,3 +1,3 @@
-# nginx_envoy
+# Nginx_Envoy
 ### Nginx and Envoy.
 ### Performance test.

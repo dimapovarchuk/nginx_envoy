@@ -26,9 +26,12 @@
 ### Tested monitoring metrics nginx and envoy server via pometheus monitoring system with grafana dashboard
 #### Pometheus
 <img width="940" alt="image" src="https://github.com/dimapovarchuk/nginx_envoy/assets/52627259/02fdad10-b779-4ad8-94b6-49dcfd05e8af">
+<img width="944" alt="image" src="https://github.com/dimapovarchuk/nginx_envoy/assets/52627259/acb19588-5d4f-4e05-bf35-5f0cca485b70">
+<img width="944" alt="image" src="https://github.com/dimapovarchuk/nginx_envoy/assets/52627259/2c181ef5-873a-47e8-ba64-393fa87e1c44">
 
 #### Grafana dashboard
 <img width="958" alt="image" src="https://github.com/dimapovarchuk/nginx_envoy/assets/52627259/75ccc930-3873-4c49-a5b7-41d5e21e485a">
+
 
 
 

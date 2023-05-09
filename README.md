@@ -24,7 +24,10 @@
 # <img width="662" alt="image" src="https://github.com/dimapovarchuk/nginx_envoy/assets/52627259/672531a5-5bda-4ac8-8663-277739e98f71">
 
 ### Tested monitoring metrics nginx and envoy server via pometheus monitoring system with grafana dashboard
+#### Pometheus
 <img width="940" alt="image" src="https://github.com/dimapovarchuk/nginx_envoy/assets/52627259/02fdad10-b779-4ad8-94b6-49dcfd05e8af">
+
+#### Grafana dashboard
 <img width="958" alt="image" src="https://github.com/dimapovarchuk/nginx_envoy/assets/52627259/75ccc930-3873-4c49-a5b7-41d5e21e485a">
 
 
